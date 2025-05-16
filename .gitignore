@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+node_modules
+build
+dist
+coverage
+*.log
+*.env
+*.local
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
